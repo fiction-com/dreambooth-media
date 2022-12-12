@@ -1,1 +1,1 @@
-# regularization-images
+# Images and Media for Dreambooth
